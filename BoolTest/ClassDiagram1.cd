@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoolTest.AdminLoginForm" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAKAAABAAAACAAAACAAEIAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>AdminLoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.Billing" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NABAjQQAgSA1BBQIQACAAKASAAW4BsIQEOAAAQoCAEA=</HashCode>
+      <FileName>Billing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.category" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QFABAQAoSAxJBAAAACAAAACAEQAAAAAgIABAQACAAA=</HashCode>
+      <FileName>category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.DashBoard" Collapsed="true">
+    <Position X="1.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAQAACAAABIAAACAAAACEAEAAAEAAAABAQABAEA=</HashCode>
+      <FileName>DashBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.Login" Collapsed="true">
+    <Position X="1.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACQAAKAAABAAAACAAAACAAEIAAAAAUAAAQAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.Materials" Collapsed="true">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+wNAiAQAoCAxJBRBBBCAAAACAJUAAACAAJAFAQoCAAA=</HashCode>
+      <FileName>Materials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.Users" Collapsed="true">
+    <Position X="1.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QNABCYA4SAwBBAAAACAAAASBIQAAAAAAIgBAQgCAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.DataBase.BillTbl" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAACAAAAAAAAASAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\BillTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.DataBase.Materials" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAGA=</HashCode>
+      <FileName>DataBase\Materials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.DataBase.ModelKeyBTcontext" Collapsed="true">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAKAAAAAAAAAAAAEFAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\ModelKeyBTcontext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.DataBase.Seria" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase\Seria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoolTest.DataBase.UserTbl" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAQAAAABAAAAACAAAAAAAEAA=</HashCode>
+      <FileName>DataBase\UserTbl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Data.Entity.DbContext" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
